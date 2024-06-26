@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/gursewak-singh-783a22207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gursewak Singh" height="30" width="40" /></a>
 
 </p>
+<img align="right" height="200" width="325" alt="" src="https://cdn.dribbble.com/users/37649/screenshots/14120611/media/70f11596f0557caedd635a2e08ba3212.gif" />
+
 <br /> 
 <p align="left">
 <h2><b>Languages and Tools 🛠 </b></h2>
