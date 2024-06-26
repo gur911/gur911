@@ -63,3 +63,10 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-040E2C?style=for-the-badge&logo=github&logoColor=white)
 </p>
 <br/>
+<h2><b>Github Stats⭐</b></h2> 
+
+<a align="center" href="https://github.com/gur911">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gur911&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gur911&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+ </a>
+
