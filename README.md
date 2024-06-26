@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gursewak Singh</h1>
-<p> I'm a full-stack dev 👨🏽‍💻  who will never stop building 👷🏽‍♂️!
-   I know different languages like  JavaScript , C++, C, Python. </p>
+<p> I'm a full-stack developer 👨🏽‍💻 who loves building new things 👷🏽‍♂️!
+   I'm proficient in various languages such as JavaScript, C++, C, and Python. </p>
+
 <img align="left" height="200" width="325" alt="" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" />
 
  👀 I’m interested in web development and Data Structures and Algorithms.
