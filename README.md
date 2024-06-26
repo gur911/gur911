@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!--  📕   I’m currently learning **** 
    <br> -->
 
- 👨‍💻  [My Portfolio](https://portfolio-mainsardarji.vercel.app) 
+ 👨‍💻  [My Portfolio](https://gursewaksingh-portfolio.vercel.app) 
   <br>
 
  ✉️   Reach me via **gursewaksinghynr73@gmail.com** 
